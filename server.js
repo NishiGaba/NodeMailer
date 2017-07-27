@@ -28,6 +28,10 @@ transporter.sendMail(mailOptions, (error, info) => {
     }
     console.log('Message %s sent: %s', info.messageId, info.response);
 });
+<<<<<<< HEAD
+
+
+//Server JS SMTP COMMENTED
 
 
 // var mailContent = "<center><table class='body-wrap' style='text-align:center;width:86%;font-family:arial,sans-serif;border:12px solid rgba(126, 122, 122, 0.08);border-spacing:4px 20px;'>\
@@ -96,3 +100,5 @@ transporter.sendMail(mailOptions, (error, info) => {
             //             })
             //         }
             //     });
+=======
+>>>>>>> parent of 3af5759... Server File Modified

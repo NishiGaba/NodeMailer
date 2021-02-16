@@ -67,9 +67,9 @@ transporter.sendMail(mailOptions, (error, info) => {
             //                     XOAuth2: {
             //                       user: "no_reply@livechek.com", // Your gmail address.
             //                                                             // Not @developer.gserviceaccount.com
-            //                       clientId: "418419214912-cl08oopqas4p0a2selbv5vvaoqfkvr5s.apps.googleusercontent.com",
-            //                       clientSecret: "XcUl7BEKka3xGs3WeEQMkUxr",
-            //                       refreshToken: "1/OFp2lt3Ffs0AHpHwIuzOmaM3Yisk-aa3GE10moiDg88"
+            //                       clientId: "******",
+            //                       clientSecret: "******",
+            //                       refreshToken: "******"
             //                     }
             //                 }
             //             });
